@@ -1,0 +1,3 @@
+rootProject.name = 'SenoirTrack'
+
+include ':app'
